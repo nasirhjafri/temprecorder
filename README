@@ -1,14 +1,14 @@
-## How to install
+# How to install dependencies
 
 npm install
 
 
-## How to run
+# How to run
 
 npm run start
 
 
-## API's
+# API's
 Endpoint: /temp
 params:
     name: city
@@ -19,6 +19,8 @@ params:
 example http://127.0.0.1:3000/temp?city=Lahore
 
 
-## Notes
+# Notes
 By default running the command `npm run start` will start server on port 3000.
 Kindly hit url http://127.0.0.1:3000/temp?city= with city name to get the temp in F
+
+Avialable at https://github.com/nasirhjafri/tempreporter
